@@ -1,0 +1,9 @@
+.idea/
+
+.vs/
+
+.vscode/
+
+anv/
+
+src/data/users.db
